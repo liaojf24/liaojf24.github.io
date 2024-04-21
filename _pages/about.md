@@ -15,5 +15,5 @@ I'm interested in bioinformatics, deep learning, and AI for Science in proteomic
   \\
 I obtained my bachelor's degree in Engineering of Bioinformatics from Huazhong University of Science and Technology in 2021. And I was awarded "Outstanding Undergraduate In Terms of Academics(top 1%)". After that, I studied in the School of Future Technology in University of Chinese Academy of Sciences. I've accepted comprehensive training in an interdisciplinary field, DL and biology.\\
 \\
-I'm searching for remote research interns in bioinformatics and preparing for the English test. So I'm very pleased and grateful that anyone can contact me for research interns in bioinformatics, communicating PhD application experience, or sharing something interesting with me. I'd like to be a good listener. [wechat](../images/wechatljf.jpg)
+I'm searching for remote research interns in bioinformatics and preparing for the English test. So I'm very pleased and grateful that anyone can contact me for research interns in bioinformatics, communicating PhD application experience, or sharing something interesting with me. I'd like to be a good listener. You can add my [wechat](../images/Wechatljf.jpg) if necessary.
 
