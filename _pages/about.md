@@ -9,11 +9,13 @@ redirect_from:
 ---
 Email: jiafeng@hust.edu.cn, ljf990204@gmail.com    \\
    \\
-I'm Jiafeng Liao, a self-motivated student who is preparing to apply for PhD. My personalities and characteristics are : exceptional execution skills, taking every task seriously and being sincere towards friends.\\
-  \\
-I'm interested in bioinformatics, deep learning, and AI for Science in proteomics and genomics.\\
-  \\
-I obtained my bachelor's degree in Engineering of Bioinformatics from Huazhong University of Science and Technology in 2021. And I was awarded "Outstanding Undergraduate In Terms of Academics(top 1%)". After that, I studied in the School of Future Technology in University of Chinese Academy of Sciences. I've accepted comprehensive training in an interdisciplinary field, DL and biology.\\
+I'm Jiafeng Liao, a highly driven student preparing to apply for a PhD. I pride myself on my exceptional execution skills, my commitment to each project, and my sincerity towards friends.   
 \\
-I'm searching for remote research interns in bioinformatics and preparing for the English test. So I'm very pleased and grateful that anyone can contact me for research interns in bioinformatics, communicating PhD application experience, or sharing something interesting with me. I'd like to be a good listener. You can add my [wechat](../images/Wechatljf.jpg) if necessary.
+I'm currently interested in bioinformatics, deep learning, and AI applications in proteomics and genomics.   
+\\
+I obtained the Bachelor's degree of Engineering in Bioinformatics from Huazhong University of Science and Technology in 2021, where I was awarded "Outstanding Undergraduate in Academics (top 1%)". Subsequently, I pursued further studies at the School of Future Technology at the University of Chinese Academy of Sciences, receiving rigorous training in both deep learning and biology within an interdisciplinary setting.    
+\\
+Currently, I am seeking remote research internships in bioinformatics and preparing for my English proficiency tests. I am eager to connect with anyone who can offer opportunities for conducting research in bioinformatics, share their PhD application experiences, or exchange intriguing ideas. I am always ready to listen and learn. Feel free to contact me via email and my [wechat](../images/Wechatljf.jpg) if you want any relevant discussions.
+
+
 
