@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Email: jiafeng@hust.edu.cn, ljf990204@gmail.com    \\
+Email: jiafeng@hust.edu.cn, ljf990204@gmail.com
 \\
 I'm Jiafeng Liao, a highly self-motivated student preparing to apply for a PhD. I pride myself on my exceptional execution skills, my commitment to each project, and my sincerity towards friends.   
 
@@ -16,8 +16,8 @@ I obtained a Bachelor's degree of Engineering in Bioinformatics from Huazhong Un
 Educational Background
 =====
 - Graduate study, University of Chinese Academy of Sciences, 2021-2023, Interdisciplinary Studies, School of Future Technology
-- Bachelor, Huazhong University of Science and Technology, 2017-2021, Bioinformatics, rank 1 in class.\\
-
+- Bachelor, Huazhong University of Science and Technology, 2017-2021, Bioinformatics, rank 1 in class.
+\\
 
 Research Interests
 ======
