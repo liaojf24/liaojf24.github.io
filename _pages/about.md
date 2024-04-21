@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Email: jiafeng@hust.edu.cn, ljf990204@gmail.com <br>
+Email: jiafeng@hust.edu.cn , ljf990204@gmail.com <br>
 <br>
 I'm Jiafeng Liao, a highly self-motivated student preparing to apply for a PhD. I pride myself on my exceptional execution skills, my commitment to each project, and my sincerity towards friends. <br>
 <br>
