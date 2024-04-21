@@ -21,10 +21,8 @@ Educational Background
 
 Research Interests
 ======
-
-I'm currently interested in bioinformatics, deep learning, and AI applications in proteomics and genomics.\\
+I'm currently interested in bioinformatics, deep learning, and AI applications in proteomics and genomics.  
 \\
-
 Currently, I am seeking remote research internships in bioinformatics and preparing for my English proficiency tests. I am eager to connect with anyone who can offer opportunities for conducting research in bioinformatics, share their PhD application experiences, or exchange intriguing ideas. I am always ready to listen and learn. Feel free to contact me via email and my [wechat](../images/Wechatljf.jpeg) if you want any relevant discussions.
 
 
