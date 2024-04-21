@@ -19,6 +19,7 @@ Educational Background
 - Graduate study, University of Chinese Academy of Sciences, 2021-2023, Interdisciplinary Studies, School of Future Technology
 - Bachelor, Huazhong University of Science and Technology, 2017-2021, Bioinformatics, rank 1 in class.
 <br>
+
 Research Interests
 ======
 I'm currently interested in bioinformatics, deep learning, and AI applications in proteomics and genomics. <br> 
