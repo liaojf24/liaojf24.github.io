@@ -21,7 +21,7 @@ repository               : "liaojf24/liaojf24.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myprofile.png"
   name             : "Jiafeng Liao"
   pronouns         : "she/her"  
   location         : "Earth"
