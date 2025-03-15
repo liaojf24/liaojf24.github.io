@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Email: jiafeng@hust.edu.cn or ljf990204@gmail.com <br>
+Email: jiafeng@zju.edu.cn or ljf990204@gmail.com <br>
 <br>
 I'm Jiafeng Liao. I am doing RA at Zhejiang University at Prof. Xiong lab. Before that, I obtained a Bachelor's degree of Engineering in Bioinformatics from Huazhong University of Science and Technology in 2021, where I was awarded "Outstanding Undergraduate in Academics (top 1%)". Subsequently, I pursued further studies at the School of Future Technology at the University of Chinese Academy of Sciences, receiving rigorous training in both deep learning and biology within an interdisciplinary setting. You can find my resume here:[Jiafeng Liao's cv](../assets/academic_cv.pdf).<br>
 <br>
