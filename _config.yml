@@ -209,6 +209,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  Compbio Techniques:
+    output: true
+    permalink: /:collection:/path/
 
 
 # Defaults
@@ -244,6 +247,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _Compbio Techniques
+  - scope:
+      path: ""
+      type: Compbio Techniques
     values:
       layout: single
       author_profile: true
