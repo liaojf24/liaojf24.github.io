@@ -6,6 +6,13 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+
+nav:
+  - Home: /
+  - About: /about/
+  - Research: /research/
+  - Publications: /publications/
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Jiafeng Liao/Personal Homepage"
